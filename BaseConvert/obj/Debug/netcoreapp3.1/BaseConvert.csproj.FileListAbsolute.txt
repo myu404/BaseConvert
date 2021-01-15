@@ -1,0 +1,13 @@
+C:\Users\Mikey\git\BaseConvert\BaseConvert\obj\Debug\netcoreapp3.1\BaseConvert.csprojAssemblyReference.cache
+C:\Users\Mikey\git\BaseConvert\BaseConvert\obj\Debug\netcoreapp3.1\BaseConvert.AssemblyInfoInputs.cache
+C:\Users\Mikey\git\BaseConvert\BaseConvert\obj\Debug\netcoreapp3.1\BaseConvert.AssemblyInfo.cs
+C:\Users\Mikey\git\BaseConvert\BaseConvert\obj\Debug\netcoreapp3.1\BaseConvert.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\git\BaseConvert\BaseConvert\bin\Debug\netcoreapp3.1\BaseConvert.exe
+C:\Users\Mikey\git\BaseConvert\BaseConvert\bin\Debug\netcoreapp3.1\BaseConvert.deps.json
+C:\Users\Mikey\git\BaseConvert\BaseConvert\bin\Debug\netcoreapp3.1\BaseConvert.runtimeconfig.json
+C:\Users\Mikey\git\BaseConvert\BaseConvert\bin\Debug\netcoreapp3.1\BaseConvert.runtimeconfig.dev.json
+C:\Users\Mikey\git\BaseConvert\BaseConvert\bin\Debug\netcoreapp3.1\BaseConvert.dll
+C:\Users\Mikey\git\BaseConvert\BaseConvert\bin\Debug\netcoreapp3.1\BaseConvert.pdb
+C:\Users\Mikey\git\BaseConvert\BaseConvert\obj\Debug\netcoreapp3.1\BaseConvert.dll
+C:\Users\Mikey\git\BaseConvert\BaseConvert\obj\Debug\netcoreapp3.1\BaseConvert.pdb
+C:\Users\Mikey\git\BaseConvert\BaseConvert\obj\Debug\netcoreapp3.1\BaseConvert.genruntimeconfig.cache
